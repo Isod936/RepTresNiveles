@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link heref="https.com/tailwingscss@3.0.24/dist/tailwind.min.css"rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/estilos.css">
+</head>
+
+<body>
+    <h1>Hola mundo con tailwind</h1>
+    <nav>
+        <ul>
+            <li><a href="#">.logo</a></li>
+            <li><a href="#">.nav</a></li>
+            <li><a href="#">.social</a></li>
+        </ul>
+    </nav>
+    <article>
+        <h2>
+            .banner
+        </h2>
+    <div>
+        <section>
+            <p>
+                .article
+            </p>
+            <p>
+                .article
+            </p>
+            <p>
+                .article
+            </p>   
+            <p>
+                .article
+            </p>           
+            <p>
+                .navigacion
+            </p>       
+        </section>
+            
+        </div>
+    </article>
+    <aside>
+        
+        <p>
+            .publicidad
+        </p>
+        <p>
+            .publicidad
+        </p>
+    <footer>
+        <p>
+            .pie
+        </p>
+</body>
+
+
+</html>
